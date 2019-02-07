@@ -1,0 +1,25 @@
+
+h1 {color:black; 
+	font-size:90px;
+	font-style:italic;
+	background: grey;
+	padding: 100px;
+}
+
+body {
+	width: 1340px;
+	height: 600ps;
+	padding: 0px;
+	color: black;
+	background: white;
+}
+
+h3 {
+	width: 200px;
+	height: 600ps;
+	color: white;
+	background: black;
+}
+h2 {
+	color: green
+}
